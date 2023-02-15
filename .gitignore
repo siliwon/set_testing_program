@@ -1,2 +1,9 @@
 # virtual environment:
 *venv/
+
+# VSCode settiongs:
+.vscode/
+
+# pycache stuff:
+*.pyc
+__pycache__/
